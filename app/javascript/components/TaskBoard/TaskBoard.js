@@ -28,7 +28,7 @@ const data = {
   ],
 };
 
-function TaskBoard() {
+function TaskBoard({ disableColumnDrag }) {
   return <Board initialBoard={data} />;
 }
 
