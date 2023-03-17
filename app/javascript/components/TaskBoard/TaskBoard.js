@@ -28,8 +28,8 @@ const data = {
   ],
 };
 
-function TaskBoard({ disableColumnDrag }) {
-  return <Board initialBoard={data} />;
+function TaskBoard() {
+  return <Board disableColumnDrag initialBoard={data} />;
 }
 
 export default TaskBoard;
