@@ -304,7 +304,7 @@ DEPENDENCIES
   web-console (>= 4.1.0)
   webdrivers
   webpacker (~> 5.0)
-  webpacker-react (~> 1.0.0.beta.1)
+  webpacker-react
 
 RUBY VERSION
    ruby 2.7.1p83
